@@ -1,0 +1,4 @@
+Number of moves:	 5 
+Number of flags placed:	 1 
+Number of open cells:	 114 
+Time passed is: 0 minutes and 35 seconds 

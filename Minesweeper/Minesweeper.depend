@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1482448581 source:f:\uni\programming\minesweeper\minesweeper\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1482473157 source:c:\users\mustafa l 5awl\desktop\minesweeper\minesweeper\main.c
+	"opencell.h"
+
+1482473225 c:\users\mustafa l 5awl\desktop\minesweeper\minesweeper\opencell.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1482606531 source:c:\users\mustafa l 5awl\desktop\minesweeperremastered\main.c
+	"opencell.h"
+
+1482607221 c:\users\mustafa l 5awl\desktop\minesweeperremastered\opencell.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1482615218 source:c:\users\mustafa l 5awl\desktop\mine sweeper remasterd final project\main.c
+	"opencell.h"
+
+1482615640 c:\users\mustafa l 5awl\desktop\mine sweeper remasterd final project\opencell.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1482674526 source:c:\users\mustafa l 5awl\desktop\refrence geded\mine sweeper remasterd final project\main.c
+	"opencell.h"
+
+1482674679 c:\users\mustafa l 5awl\desktop\refrence geded\mine sweeper remasterd final project\opencell.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1482674693 source:f:\uni\programming\refrence geded\mine sweeper remasterd final project\main.c
+	"opencell.h"
+
+1482674679 f:\uni\programming\refrence geded\mine sweeper remasterd final project\opencell.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
+1482674693 source:c:\users\owner\desktop\minesweeper\mine sweeper remasterd final project\main.c
+	"opencell.h"
+
+1482674679 c:\users\owner\desktop\minesweeper\mine sweeper remasterd final project\opencell.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
